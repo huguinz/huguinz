@@ -133,6 +133,7 @@
     </h3>
     <div> 
         <img src='https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black' alt='Notepad ++'>
+        <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='VS code'>
         <img src='https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white' alt='InteliJ'>
         <img src='https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white' alt='Figma'>
         <img src='https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white' alt='Canva'>
@@ -148,6 +149,14 @@
         <img src='https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white' alt='Git'>
         <img src='https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white' alt='GitHub'>
         <img src='https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white' alt='ChatBot'>
+        <img src='https://img.shields.io/badge/Unsplash-000000.svg?style=for-the-badge&logo=Unsplash&logoColor=white' alt='Unsplash'>
+        <img src='https://img.shields.io/badge/Freepik-1273EB.svg?style=for-the-badge&logo=Freepik&logoColor=white' alt='Freepik'>
+        <img src='https://img.shields.io/badge/Pexels-05A081.svg?style=for-the-badge&logo=Pexels&logoColor=white' alt='Pexels'>
+        <img src='https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=white' alt='Behance'>
+        <img src='https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white' alt='Stack Overflow'>
+        <img src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white' alt='Microsoft Office'>
+        <img src='https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' alt='Microsoft Azure'>
+        <img src='https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white' alt='Vercel'>
     </div>
 </div>
 
