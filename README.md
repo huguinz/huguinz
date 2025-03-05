@@ -11,7 +11,7 @@
 <div align="center">
    <h1>
        Hugo Lopes de Souza <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=17&duration=2500&pause=1000&color=7000FF&center=true&width=550&lines=System+Developer;Front-End+Developer;Back-end+Developer;Front-End+Developer;Database+Analyst;Project+Manager" alt="Skills Description">
+        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=17&duration=2500&pause=1000&color=7000FF&center=true&width=550&lines=System+Developer;Back-end+Developer;Front-End+Developer;Database+Analyst;Project+Manager" alt="Skills Description">
        
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugolopessouza/)
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugolopessouza58@gmail.com)
