@@ -21,7 +21,7 @@
 </div>
 
 <div align='center'> 
-    <img src= 'https://github-readme-streak-stats.herokuapp.com/?user=huguinz&hide_border=true&exclude_days=Sun&theme=transparent' alt="Statistic">
+    <img src= "https://github-readme-streak-stats.herokuapp.com/?user=huguinz&hide_border=true&theme=transparent" alt="stats">
 </div>
 
 <div align='center'> 
